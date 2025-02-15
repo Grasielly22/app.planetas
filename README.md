@@ -1,6 +1,6 @@
-# myapp
+app.planetas
 
-A new Flutter project.
+Projeto desenvolvido na atividade 12
 
 ## Getting Started
 
